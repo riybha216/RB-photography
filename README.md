@@ -1,6 +1,6 @@
-# RB-photography
+# RB Photography
 
-RB Photography was built because I wanted to share my love for capturing the smallest moments with the world. Instead of posting pictures on personal accounts, I wanted to create a portfolio website where I could highlight my best works, allow users to request shoots from me, and contact me to cite my work in a professional manner.
+RB Photography was built because I wanted to share my love for capturing the smallest moments with the world. Instead of posting pictures on personal accounts, I wanted to create a portfolio website where I could highlight my best work, allow users to request shoots from me, and contact me to cite my work in a professional manner.
 
 I've iterated over this site multiple times. Initially, I created this website using a template; but, I wanted to display my creativity on my portfolio, which meant being able to customize it. Then, I created version1 one year ago, which depicted a bare outline of the current website. This is my second iteration of designing the portfolio from scratch.
 
